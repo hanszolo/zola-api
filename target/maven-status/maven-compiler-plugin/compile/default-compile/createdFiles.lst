@@ -1,0 +1,11 @@
+com/hanzolo/zolapi/invoice/models/Invoice.class
+com/hanzolo/zolapi/invoice/InvoiceEndpoint.class
+com/hanzolo/zolapi/invoice/models/InvoiceDAO.class
+com/hanzolo/zolapi/invoice/models/InvoiceMapper.class
+com/hanzolo/zolapi/invoice/models/InvoiceBinder$InvoiceBinderFactory$1.class
+com/hanzolo/zolapi/invoice/models/InvoiceBinder.class
+com/hanzolo/zolapi/ApiConfiguration.class
+com/hanzolo/zolapi/client/Client.class
+com/hanzolo/zolapi/ApiService.class
+com/hanzolo/zolapi/invoice/models/InvoiceBinder$InvoiceBinderFactory.class
+com/hanzolo/zolapi/client/Client$1.class

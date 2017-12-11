@@ -1,0 +1,11 @@
+# this uses postgres
+db_type: postgres-sql
+database:
+  # the name of your JDBC driver
+  driverClass: org.postgresql.Driver
+  # the username
+  user: zola
+  # the password
+  password: !!null
+  # the JDBC URL
+  url: jdbc:postgresql://localhost:3306/invoices

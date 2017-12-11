@@ -1,0 +1,11 @@
+# I used mysql when I developed this
+db_type: mysql
+database:
+  # the name of your JDBC driver
+  driverClass: com.mysql.jdbc.Driver
+  # the username
+  user: zola
+  # the password
+  password: !!null
+  # the JDBC URL
+  url: jdbc:mysql://localhost:3306/invoices
